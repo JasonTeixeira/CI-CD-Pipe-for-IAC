@@ -1,1 +1,3 @@
-A project to build a scalable and cost-effective web application using AWS Lambda and API Gateway. The solution includes setting up a RESTful API, custom domain integration, and automatic scaling, ensuring efficient resource utilization and seamless handling of varying workloads.
+# AWS Lambda and API Gateway
+![](https://github.com/JasonTeixeira/Serverless-Web-App-with-AWS-Lambda-and-API-Gateway/blob/main/Project-5%20Architecture.drawio.png)
+
